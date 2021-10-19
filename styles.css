@@ -1,0 +1,89 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: arial, sans-serif;
+  color: grey;
+  background-color:#E0E5EC;
+}
+
+.container-calc {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  border-radius: 7px;
+  box-shadow: 3px 3px 5px #bec3c9, -3px -3px 5px #ffffff;
+  width: 375px;
+  margin: 20px auto;
+  padding: 0px 10px;
+  font-size: 25px;
+
+}
+
+.display {
+  grid-column-start: 1;
+  grid-column-end: 5;
+  text-align: right;
+  padding: 200px 15px 10px 0px;
+  margin-top: 10px;
+  border-radius: 7px;
+  box-shadow: -3px -3px 5px #ffffff inset, 3px 3px 5px #bec3c9 inset;
+  height: 50px;
+  width: 360px;
+}
+
+.history {
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+.history, .output {
+  margin-left: 10px;
+  overflow: hidden;
+
+}
+
+.keyboard {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  width: 375px;
+  text-align: center;
+  padding: 10px 0px;
+}
+
+button {
+  border-radius: 7px;
+  background: linear-gradient(145deg, #f0f5fd, #caced4);
+  box-shadow: 3px 3px 5px #bec3c9, -3px -3px 5px #ffffff;
+  padding: 10px;
+  border: none;
+  font-size: 25px;
+  cursor: pointer;
+}
+
+button:active {
+  box-shadow: 3px 3px 5px #bec3c9 inset, -3px -3px 5px #ffffff inset;
+}
+
+button:focus {
+  outline: none;
+}
+
+.orang {
+  font-size: 20px;
+  color: rgba(255, 102, 0, 0.8);
+}
+
+.sign {
+  font-size: 25px;
+}
+
+.span1 {
+  grid-area: 4 / 4 / 6 / 5;
+  padding-top: 20px;
+  color: rgba(255, 102, 0, 0.8);
+}
+
+.span2 {
+  grid-area: 5 / 1 / 6 / 3;
+  padding-top: 20px;
+}
