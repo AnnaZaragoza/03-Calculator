@@ -7,7 +7,7 @@ Very simple but modern looking calculator (UI Neumorphism) that allowed me to ma
 # Features:
 * CSS Grid - grid-template, grid-column, grid-area
 * UI Neumorphism
-* JS: const/let, forEach loops, functions and DOM 
+* JS: const/let, forEach, DOM 
 
 # References:
 * https://neumorphism.io/#e0e0e0
