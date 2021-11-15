@@ -1,5 +1,5 @@
 # 03-Calculator
-Very simple but modern looking calculator (UI Neumorphism) that allowed me to master CSS-GRID and start practising in JavaScript :)
+Very simple but modern looking calculator (UI Neumorphism) that allowed me to master CSS-GRID and start practising JavaScript :)
 
 ![Alt Text](https://github.com/AnnaZaragoza/03-Calculator/blob/71d1f32b0b64bf331a7b0dc018debb9b1283d045/gif/gif.gif)
 
