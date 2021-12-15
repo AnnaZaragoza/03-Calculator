@@ -55,7 +55,7 @@ operationButtons.forEach (operation => {
 function moveValue(value = ''){
   history += output + ' ' + value + ' ';
   historyDisplayed.innerText = result;
-  outputDisplayed.innerText = '0';
+  outputDisplayed.innerText = output;
   output = '';
 }
 
