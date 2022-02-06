@@ -9,6 +9,9 @@ Very simple but modern looking calculator (UI Neumorphism) that allowed me to ma
 * UI Neumorphism
 * JS: const/let, forEach, DOM 
 
+# Check the site:
+[Calculator](https://neumorphismcalculator.netlify.app/)
+
 # References:
 * https://neumorphism.io/#e0e0e0
 * https://www.youtube.com/watch?v=0Vg4EiYPCUc&t=158s
