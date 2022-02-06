@@ -1,4 +1,4 @@
-# 03-Calculator
+# Calculator
 Very simple but modern looking calculator (UI Neumorphism) that allowed me to master CSS-GRID and start practising JavaScript :)
 
 ![Alt Text](https://github.com/AnnaZaragoza/03-Calculator/blob/main/gif/gif.gif)
