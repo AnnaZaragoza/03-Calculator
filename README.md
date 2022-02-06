@@ -10,7 +10,7 @@ Very simple but modern looking calculator that allowed me to master CSS-GRID and
 * JS - content copied from https://www.youtube.com/watch?v=0Vg4EiYPCUc&t=158s
 
 # Check the site:
-[Calculator](https://neumorphismcalculator.netlify.app/)
+[Calculator](https://annazaragoza.net/calculator/index.html)
 
 # References:
 * https://neumorphism.io/#e0e0e0
