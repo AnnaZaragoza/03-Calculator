@@ -7,11 +7,12 @@ Very simple but modern looking calculator that allowed me to master CSS-GRID and
 # Features:
 * CSS Grid - grid-template, grid-column, grid-area
 * Neumorphism
-* JS - content copied from https://www.youtube.com/watch?v=0Vg4EiYPCUc&t=158s
+* JavaScript
 
 # Check the site:
 [Calculator](https://annazaragoza.net/calculator/index.html)
 
 # References:
 * https://neumorphism.io/#e0e0e0
+* https://www.youtube.com/watch?v=0Vg4EiYPCUc&t=158s
 
